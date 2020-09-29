@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f06c91b5851c73640af2f44431f5a441, type: 3}
+  m_Name: Bones
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1414433173183025290, guid: f96d044cd3ddf0045abf9bc76698b47b, type: 3}
+  type: 2
+  description: some Bones of dead ones
